@@ -5,9 +5,10 @@
 //  Created by Mohameth Seck on 1/20/24.
 //
 
+
 import SwiftUI
 
-struct ContentView: View {
+struct MeetingView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -20,5 +21,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    MeetingView()
 }
